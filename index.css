@@ -1,0 +1,131 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#container {
+  width: 25vw;
+  height: 85vh;
+  background-color: lightskyblue;
+  border-radius: 5px;
+  box-shadow: 0px 10px 10px lightsteelblue;
+  /*  margin-top: 5%;*/
+  margin-left: 5%;
+  position: absolute;
+  display: block;
+}
+.img {
+  height: 30vh;
+  width: 25vw;
+  background-image: url("https://wallpapercave.com/wp/wp8548598.jpg");
+  background-size: 100% 100%;
+}
+#prashant {
+  font-family: "Abril Fatface", cursive;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 20;
+}
+#program {
+  font-size: 25px;
+  text-align: center;
+}
+#hello {
+  color: rgb(66, 192, 235);
+  font-size: 20px;
+  text-align: center;
+  margin-top: 10px;
+}
+#myself {
+  word-spacing: 3px;
+  margin: 20px 30px 0px 30px;
+  font-family: "Abril Fatface", cursive;
+  letter-spacing: 2px;
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+}
+#container2 {
+  width: 60vw;
+  height: 85vh;
+  background-color: gray;
+  margin: 5% 0% 0% 30%;
+  display: block;
+}
+#skills {
+  text-align: center;
+  margin: 10px auto 0px auto;
+  color: whitesmoke;
+}
+#java {
+  width: 25vw;
+  height: 55vh;
+  background-color: whitesmoke;
+  position: absolute;
+  border: 1px solid lightgreen;
+  border-radius: 15px;
+  margin: 30px 0px 0px 40px;
+}
+#open {
+  width: 25vw;
+  height: 55vh;
+  background-color: whitesmoke;
+  margin: 30px 0px 0px 450px;
+  border-radius: 15px;
+  border: 1px solid lightgreen;
+}
+.fa-solid {
+  font-size: 100px;
+  margin: 30px 0px 0px 120px;
+  color: steelblue;
+}
+.fa-brands {
+  font-size: 100px;
+  margin: 30px 0px 0px 120px;
+}
+h2 {
+  margin-top: 20px;
+  text-align: center;
+  color: violet;
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+}
+#coding {
+  word-spacing: 3px;
+  margin: 20px 30px 0px 30px;
+  font-family: "Abril Fatface", cursive;
+  letter-spacing: 2px;
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+}
+#codings {
+  word-spacing: 1px;
+  margin: 20px 30px 0px 30px;
+  font-family: "Abril Fatface", cursive;
+  letter-spacing: 1px;
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+}
+.fun {
+  margin-top: 30px;
+  text-align: center;
+}
+#get {
+  margin-top: 30px;
+  text-align: center;
+}
+#source {
+  margin-top: 20px;
+  text-align: center;
+
+  word-spacing: 1px;
+  font-size: 15px;
+  font-family: "Sofia Sans Semi Condensed", sans-serif;
+}
+#well {
+  font-size: 15px;
+  font-weight: bolder;
+  margin-top: 20px;
+  text-align: center;
+}
+.fa-regular {
+  font-size: 15px;
+  background-color: yellow;
+  color: red;
+}
